@@ -1,0 +1,15 @@
+body { 
+    margin: 0;
+  }
+  .titulos {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    padding-top: 20px;
+    background-color: rgba(186, 148, 223, 0.808);
+  }
+  .logo-chico{
+  width: 60px;
+  height: auto;
+}
